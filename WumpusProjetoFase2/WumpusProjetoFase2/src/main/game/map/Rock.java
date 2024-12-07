@@ -30,7 +30,6 @@ public class Rock {
 				}
 			}
 		}
-
 		return false;
 	}
 }
